@@ -1,0 +1,51 @@
+.header {
+    max-height: 200px;
+    width: 100vw;
+    object-fit: cover;
+}
+
+main {
+    padding: 3rem;
+    background-color: #e8e8e8;
+}
+
+.navbar {
+    background-color: black;
+}
+
+.menu {
+    display: flex;
+    flex-direction: row;
+    margin: 0 auto;
+    width: fit-content;
+    flex-wrap: wrap;
+}
+
+.menu-item {
+    list-style: none;
+}
+
+.menu-item-link {
+    display: block;
+    padding: 27px 20px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    color: rgba(255, 255, 255, 0.5);
+    font-size: 13px;
+}
+
+.menu-item-link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+footer {
+    background-color: #1d1d1d;
+    display: flex;
+    justify-content: space-between;
+    padding: 30px;
+}
+
+a {
+    color:#ff0000;
+}
