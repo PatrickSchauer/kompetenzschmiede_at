@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Aktuelles &#8211; Kompetenzschmiede</title>
+	<atom:link href="/category/aktuelles/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Wed, 18 Mar 2015 20:54:00 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Begleitung – Einzel- &#038; Team Coaching, Fall-Supervision durch Anna Maria Gsöllpointner</title>
+		<link>/kreatives-stdtage/</link>
+		
+		<dc:creator><![CDATA[ibicvic]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2015 19:01:15 +0000</pubDate>
+				<category><![CDATA[Aktuelles]]></category>
+		<guid isPermaLink="false">http://localhost/?p=15</guid>
+
+					<description><![CDATA[Kreatives Schmuck-Kreationen selber gestalten und fertigen von Professionistin Marget Hawlik Malen &#8211; Kustsinnig sein mit Catherine Lebens-G´schichten &#8211; Alltags-Krimis alles im Fluss]]></description>
+										<content:encoded><![CDATA[<h4><span style="color: #e1003a;">Kreatives</span></h4>
+<ul>
+<li><strong>Schmuck-Kreationen</strong> selber gestalten und fertigen von Professionistin Marget Hawlik</li>
+<li><strong>Malen</strong> &#8211; Kustsinnig sein mit Catherine</li>
+<li><strong>Lebens-G´schichten</strong> &#8211; Alltags-Krimis alles im Fluss</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Impulse &#8211; Workshops Begleitung</title>
+		<link>/impulse-und-begleitung/</link>
+		
+		<dc:creator><![CDATA[ibicvic]]></dc:creator>
+		<pubDate>Tue, 10 Mar 2015 17:22:43 +0000</pubDate>
+				<category><![CDATA[Aktuelles]]></category>
+		<guid isPermaLink="false">http://localhost/?p=1</guid>
+
+					<description><![CDATA[Lebensmitte – Potenziale Rückblick, aktuelles und was wird mir immer wichtiger – was macht für mich Sinn in die eigene Lebensgeschichte eintauchen.Bewusst werden, dass die Lebensphasen in der eigenen Lebensgeschichte spuren hinterlassen haben und Potentiale schlummern. Durchs erzählen, benennen, formulieren und bildlich gestalten, für mich einen heilsamen Weg zu beginnen, die weiteren Lebensphasen bewusst gestalten. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p style="padding-left: 30px;"><strong>Lebensmitte – Potenziale</strong></p>
+<p>Rückblick, aktuelles und was wird mir immer wichtiger – was macht für mich Sinn in die eigene Lebensgeschichte eintauchen.Bewusst werden, dass die Lebensphasen in der eigenen Lebensgeschichte spuren hinterlassen haben und Potentiale schlummern. Durchs erzählen, benennen, formulieren und bildlich gestalten, für mich einen heilsamen Weg zu beginnen, die weiteren Lebensphasen bewusst gestalten.</p>
+<p style="padding-left: 30px;"><strong>Lebensmitte – Begrenzt-heit</strong></p>
+<p>Menschen in Krisen-, lebensbedrohenden Krankheiten ermutigen “Erlebtes” – durchgelebtes, Erkentnisse für sich/seine Liebsten Lebens-Sichtweisen zur Verfügung stellen können.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Allgemein &#8211; Kompetenzschmiede</title>
+	<atom:link href="/category/allgemein/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description></description>
+	<lastBuildDate>Mon, 11 Mar 2019 16:14:09 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title># 13 Kompetenzschmiede</title>
+		<link>/13-kompetenzschmiede/</link>
+					<comments>/13-kompetenzschmiede/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Maria Gsöllpointner]]></dc:creator>
+		<pubDate>Mon, 11 Mar 2019 16:13:59 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">/?p=811</guid>
+
+					<description><![CDATA[&#160;]]></description>
+										<content:encoded><![CDATA[<!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
+<audio class="wp-audio-shortcode" id="audio-811-1" preload="none" style="width: 100%;" controls="controls"><source type="audio/mpeg" src="/wp-content/uploads/2019/03/2019_04_kompetenzschmiede_Pilates-mit-Elvira.mp3?_=1" /><a href="/wp-content/uploads/2019/03/2019_04_kompetenzschmiede_Pilates-mit-Elvira.mp3">/wp-content/uploads/2019/03/2019_04_kompetenzschmiede_Pilates-mit-Elvira.mp3</a></audio>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/13-kompetenzschmiede/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		<enclosure url="/wp-content/uploads/2019/03/2019_04_kompetenzschmiede_Pilates-mit-Elvira.mp3" length="104380398" type="audio/mpeg" />
+
+			</item>
+		<item>
+		<title>Magnesiumspray</title>
+		<link>/magnesiumspray/</link>
+					<comments>/magnesiumspray/#respond</comments>
+		
+		<dc:creator><![CDATA[Anna Maria Gsöllpointner]]></dc:creator>
+		<pubDate>Sat, 28 May 2016 19:12:26 +0000</pubDate>
+				<category><![CDATA[Allgemein]]></category>
+		<guid isPermaLink="false">/?p=149</guid>
+
+					<description><![CDATA[Die Magnesium-Sprays sind von professionellen Begleitungsprozessen durch die Obfrau, deren Verrechnung erfolgte zur Hälfte mit Produkt-Ausgleich. Daher sind noch jede Menge Sprays auf Lager. Magnesium-Info]]></description>
+										<content:encoded><![CDATA[<p><a href="/wp-content/uploads/2016/05/DSC_0771-e1464462734777.jpg"><img fetchpriority="high" decoding="async" class=" size-medium wp-image-151 alignleft" src="/wp-content/uploads/2016/05/DSC_0771-e1464462734777-199x300.jpg" alt="DSC_0771" width="199" height="300" /></a>Die Magnesium-Sprays sind von professionellen Begleitungsprozessen durch die Obfrau, deren Verrechnung erfolgte zur Hälfte mit Produkt-Ausgleich.</p>
+<p>Daher sind noch jede Menge Sprays auf Lager.</p>
+<p><a href="/wp-content/uploads/2016/05/Magnesium-Info.docx">Magnesium-Info</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/magnesiumspray/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
